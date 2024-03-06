@@ -13,6 +13,6 @@
 // }
 module.exports = async function (context, req) {
     context.res.json({
-        text: "Hello from Rick Jen's static web app API"
+        text: "loaderio-336d76e840b5ce34c944ae0ba8d2c678"
     });
 };
